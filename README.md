@@ -19,7 +19,7 @@ will require basic git skills.
 
 ## My Information
 
-My name is Ayaz Mohammed and my GitHub alias is ENTER ALIAS HERE.
+My name is Ayaz Mohammed and my GitHub alias is mlnu89.
 
 ## Optional Next Steps
 
